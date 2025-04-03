@@ -10,7 +10,7 @@ Define the specific FPGA design flow for your
 project. Tutorials like those available
 [here](https://xilinx.github.io/xup_fpga_vivado_flow/index.html) or
 from Xilinx UG892 and UG888 can guide you through the design flow.
-  3.**Use ECC Modules for DRAM:**\
+  3. **Use ECC Modules for DRAM:**\
 If your design utilises DRAM, ensure
 that you incorporate Error-Correcting Code (ECC) modules, which include
 an additional memory chip for error checking.
